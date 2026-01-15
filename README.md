@@ -83,6 +83,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 🙋‍♂️ Author
-Built by @Nwankees — CS student at Kennesaw State University.
+Built by Daniel and I — CS students at Kennesaw State University.
 
 ---
